@@ -1,0 +1,2 @@
+- use node 18
+- yarn start
